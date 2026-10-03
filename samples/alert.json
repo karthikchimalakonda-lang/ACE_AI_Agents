@@ -1,0 +1,9 @@
+{
+  "incident_id": "INC-DEMO-001",
+  "service": "sample-api-service",
+  "alert_name": "High error rate",
+  "summary": "5xx responses exceeded the defined threshold for 10 minutes. Contact: oncall@example.com",
+  "metric_value": 8.2,
+  "threshold": 2.0,
+  "environment": "non-production"
+}
